@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\project\C++\StackLib\x64\Debug\Testiki.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="StaticStackTest.InitiallyEmpty" Duration="1" />
+    <TestDuration Test="StaticStackTest.PushAndTop" Duration="1" />
+    <TestDuration Test="StaticStackTest.LifoOrder" Duration="1" />
+    <TestDuration Test="StaticStackTest.BecomesFull" Duration="1" />
+    <TestDuration Test="StaticStackTest.ThrowOnOverflow" Duration="1" />
+    <TestDuration Test="StaticStackTest.ThrowOnUnderflowPop" Duration="1" />
+    <TestDuration Test="StaticStackTest.ThrowOnEmptyTop" Duration="1" />
+    <TestDuration Test="StaticStackTest.ModifyTopElement" Duration="1" />
+    <TestDuration Test="StaticStackTest.ClearStack" Duration="1" />
+    <TestDuration Test="StaticStackTest.ConstStackAccess" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
